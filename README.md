@@ -1,3 +1,6 @@
+<img width="1197" alt="Screenshot 2023-05-22 at 6 17 43 PM" src="https://github.com/the-kush/google-doc-clone/assets/81506311/f5c42911-b5f9-4340-b98c-20cd362e64b6">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
