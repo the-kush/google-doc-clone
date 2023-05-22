@@ -1,0 +1,19 @@
+.google__sidebar {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+
+.google__sidebar li {
+    position: relative;
+    list-style: none;
+    margin-left: 1354px;
+    background-color: white;
+}
+
+.google__sidebar img {
+    height: 32px;
+    width: 28px;
+    padding: 1rem 0;
+    cursor: pointer;
+}
